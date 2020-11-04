@@ -1,0 +1,12 @@
+C:\Users\kadir\source\repos\a1_hafta4_diziler_detayli\a1_hafta4_diziler_detayli\obj\Debug\netcoreapp3.1\a1_hafta4_diziler_detayli.AssemblyInfoInputs.cache
+C:\Users\kadir\source\repos\a1_hafta4_diziler_detayli\a1_hafta4_diziler_detayli\obj\Debug\netcoreapp3.1\a1_hafta4_diziler_detayli.AssemblyInfo.cs
+C:\Users\kadir\source\repos\a1_hafta4_diziler_detayli\a1_hafta4_diziler_detayli\obj\Debug\netcoreapp3.1\a1_hafta4_diziler_detayli.csproj.CoreCompileInputs.cache
+C:\Users\kadir\source\repos\a1_hafta4_diziler_detayli\a1_hafta4_diziler_detayli\bin\Debug\netcoreapp3.1\a1_hafta4_diziler_detayli.exe
+C:\Users\kadir\source\repos\a1_hafta4_diziler_detayli\a1_hafta4_diziler_detayli\bin\Debug\netcoreapp3.1\a1_hafta4_diziler_detayli.deps.json
+C:\Users\kadir\source\repos\a1_hafta4_diziler_detayli\a1_hafta4_diziler_detayli\bin\Debug\netcoreapp3.1\a1_hafta4_diziler_detayli.runtimeconfig.json
+C:\Users\kadir\source\repos\a1_hafta4_diziler_detayli\a1_hafta4_diziler_detayli\bin\Debug\netcoreapp3.1\a1_hafta4_diziler_detayli.runtimeconfig.dev.json
+C:\Users\kadir\source\repos\a1_hafta4_diziler_detayli\a1_hafta4_diziler_detayli\bin\Debug\netcoreapp3.1\a1_hafta4_diziler_detayli.dll
+C:\Users\kadir\source\repos\a1_hafta4_diziler_detayli\a1_hafta4_diziler_detayli\bin\Debug\netcoreapp3.1\a1_hafta4_diziler_detayli.pdb
+C:\Users\kadir\source\repos\a1_hafta4_diziler_detayli\a1_hafta4_diziler_detayli\obj\Debug\netcoreapp3.1\a1_hafta4_diziler_detayli.dll
+C:\Users\kadir\source\repos\a1_hafta4_diziler_detayli\a1_hafta4_diziler_detayli\obj\Debug\netcoreapp3.1\a1_hafta4_diziler_detayli.pdb
+C:\Users\kadir\source\repos\a1_hafta4_diziler_detayli\a1_hafta4_diziler_detayli\obj\Debug\netcoreapp3.1\a1_hafta4_diziler_detayli.genruntimeconfig.cache
